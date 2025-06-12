@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>阿杰自由承兑</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #f0f8ff;
+      color: #333;
+      margin: 0;
+      padding: 40px;
+    }
+    .box {
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      display: inline-block;
+    }
+    h1 {
+      color: #007bff;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background: #28a745;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-size: 16px;
+    }
+    a.button:hover {
+      background: #218838;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>欢迎来到阿杰自由承兑平台！</h1>
+    <p>一键开始你的 USDT 承兑之旅！</p>
+    <a class="button" href="https://t.me/YourTelegramBotUsername" target="_blank">立即进入 Telegram Bot</a>
+  </div>
+</body>
+</html>
